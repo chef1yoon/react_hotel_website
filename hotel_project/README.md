@@ -1,3 +1,7 @@
+# Hotel advertisement
+
+호텔광고하는 웹사이트를 제작해 보았습니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
